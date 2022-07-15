@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "笔记本/笔记汇总/技术笔记/项目开发管理项目流程 299c2.md",
+            "file": "笔记本/MyCode.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记本/笔记汇总/技术笔记/项目开发管理项目流程 299c2.md",
+                "file": "笔记本/MyCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记本/笔记汇总/技术笔记/项目开发管理项目流程 299c2.md"
+                "file": "笔记本/MyCode.md"
               }
             }
           }
@@ -100,15 +100,15 @@
   },
   "active": "2136c013f7fa15d8",
   "lastOpenFiles": [
-    "笔记本/笔记汇总/技术笔记/项目开发管理项目流程 299c2.md",
-    "笔记本/笔记汇总/技术笔记/隐写 0288a.md",
-    "笔记本/笔记汇总/技术笔记/CTF 5e11e.md",
-    "笔记本/笔记汇总/技术笔记/CO2制冷技术 0b248.md",
-    "笔记本/笔记汇总/MyCode.md",
-    "笔记本/笔记汇总/技术笔记/集成电路 9e4a4/芯片设计/FPGA.md",
-    "笔记本/笔记汇总/技术笔记.md",
-    "笔记本/笔记汇总/MyCode/汇编 a94ed/汇编语言 f527c.md",
-    "笔记本/笔记汇总/MyCode/Latex.md",
-    "笔记本/笔记汇总/MyCode/Markdown.md"
+    "笔记本/MyCode/汇编 a94ed/Asm.md",
+    "笔记本/MyCode.md",
+    "笔记本/BILIBILI.md",
+    "笔记本/研究型.md",
+    "笔记本/软教型.md",
+    "笔记本/课程笔记.md",
+    "笔记本/技术笔记.md",
+    "笔记本/课程笔记/语文.md",
+    "笔记本/MyCode/Markdown/Mermaid 语法.md",
+    "笔记本/技术笔记/项目笔记 4e5a7/IC设计 e4640.md"
   ]
 }

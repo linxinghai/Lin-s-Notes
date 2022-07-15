@@ -2,8 +2,10 @@
   "legacyEditor": false,
   "livePreview": true,
   "promptDelete": false,
-  "attachmentFolderPath": "笔记本",
+  "attachmentFolderPath": "笔记本/resources",
   "alwaysUpdateLinks": true,
   "fileSortOrder": "alphabetical",
-  "spellcheck": true
+  "spellcheck": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }
