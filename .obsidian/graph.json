@@ -6,17 +6,60 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#MyCode",
+      "color": {
+        "a": 1,
+        "rgb": 14701145
+      }
+    },
+    {
+      "query": "tag:#bilibili",
+      "color": {
+        "a": 1,
+        "rgb": 5413856
+      }
+    },
+    {
+      "query": "tag:#runoob",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#技术",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    },
+    {
+      "query": "tag:#学科",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#研学",
+      "color": {
+        "a": 1,
+        "rgb": 14570208
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.02136752136752,
+  "lineSizeMultiplier": 0.602564102564103,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.495726495726496,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.2292013121492513,
+  "linkDistance": 30,
+  "scale": 0.7069023997743942,
   "close": true
 }

@@ -1,9 +1,9 @@
 # 关于Markdown中数学公式LaTex语法的使用教程
-[[笔记本/MyCode/Latex]]
+[Latex](笔记本/MyCode/Latex.md)
 
-"$ + esc"
+"\$ + esc"
 
-/"$$ + enter/"
+"\$\$ + enter "
 
 ## LaTex语法中希腊字符
 

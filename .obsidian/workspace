@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2136c013f7fa15d8",
+        "id": "787875fc8e1baef3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "笔记本/MyCode.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "力学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记本/MyCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "笔记本/MyCode.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -98,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2136c013f7fa15d8",
+  "active": "f9848cbe728c7286",
   "lastOpenFiles": [
-    "笔记本/MyCode/汇编 a94ed/Asm.md",
-    "笔记本/MyCode.md",
-    "笔记本/BILIBILI.md",
-    "笔记本/研究型.md",
-    "笔记本/软教型.md",
-    "笔记本/课程笔记.md",
-    "笔记本/技术笔记.md",
-    "笔记本/课程笔记/语文.md",
-    "笔记本/MyCode/Markdown/Mermaid 语法.md",
-    "笔记本/技术笔记/项目笔记 4e5a7/IC设计 e4640.md"
+    "笔记本/已归档/课程笔记/矩阵分析 bc5f4.md",
+    "笔记本/已归档/课程笔记/半导体器件原理 85815.md",
+    "笔记本/已归档/BILI/奇乐编程学院.md",
+    "笔记本/已归档/课程笔记/人工智能原理 47c96.md",
+    "笔记本/已归档/课程笔记/图像学投影矩阵推导 0327f.md",
+    "笔记本/已归档/课程笔记/微电子技术 c1b97.md",
+    "笔记本/已归档/学科/080714T 电子 c06be.md",
+    "笔记本/已归档/课程笔记/理论与应用力学 b7956.md",
+    "笔记本/已归档/课程笔记/工程力学 2dadb.md",
+    "笔记本/已归档/学科/学科.md"
   ]
 }
